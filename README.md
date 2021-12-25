@@ -13,6 +13,7 @@ I chose a method that uses all the power of the "Observer"
 ## Launch rules
 
 The program receives 3 arguments as input (or optionally 4)
+
      - The first is the number of philosophers
      - The second is the life of a philosopher without food
      - The third is the time during which the philosopher satisfies his appetite
